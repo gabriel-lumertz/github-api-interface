@@ -30,9 +30,9 @@ export const WrapperInfoUser = styled.div`
 
 export const WrapperStatusCount = styled.div`
     display: flex;
-    align-items: center
-    div {
-        margin: 8px
+    align-items: center;
+    div{
+        margin: 8px;
     }
 `
 
